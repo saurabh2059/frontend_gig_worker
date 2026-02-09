@@ -1,3 +1,4 @@
 backend not yet decided 
 
 node or django 
+Probably DRF, still figuring out
